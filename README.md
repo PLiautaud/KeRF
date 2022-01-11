@@ -5,17 +5,20 @@ Les forêts aléatoires introduites par Leo \textsc{Breiman} au début des anné
 
 # XP
 
- - Par exemple, on peut représenter 4 arbres centrés opérant sur un jeu de données de taille $n=200$ dans $\mathcal{X}=[0;1]^2$, telles que $(\mathbf{X}_i)_i \sim \mathcal{U}([0;1]^2)$ :
-![Pathos_Exemple7_d2_N=200](https://user-images.githubusercontent.com/90805180/148701851-b73ff73e-f9a6-4506-87fb-c3e3bc601437.jpg)
-
 - Une comparaison entre KeRF centré, RF centré et RF Breiman évalués sur 2 modèles :
+
   * Modèle 1 : 
 
-![Model_1](https://user-images.githubusercontent.com/90805180/148874520-db460974-2755-4dd3-b5ea-8a3481c17612.png)
+![Model_1](https://user-images.githubusercontent.com/90805180/148874839-3360690f-7d34-49d6-b31c-f504a5dd5516.jpg)
+
 
   * Modèle 2 :
 
-![Model_2](https://user-images.githubusercontent.com/90805180/148874523-a6fd1e6f-d77e-44df-99a3-a686590ea218.png)
+![Model_2](https://user-images.githubusercontent.com/90805180/148874841-38b3f2ad-19db-43e9-aa90-5be27eb57b84.jpg)
 
+
+ - Par exemple, on peut représenter 4 arbres centrés opérant sur un jeu de données de taille $n=200$ dans $\mathcal{X}=[0;1]^2$, telles que $(\mathbf{X}_i)_i \sim \mathcal{U}([0;1]^2)$ :
+
+![Pathos_Exemple7_d2_N=200](https://user-images.githubusercontent.com/90805180/148701851-b73ff73e-f9a6-4506-87fb-c3e3bc601437.jpg)
 
 *Contributions :* Laure Ferraris, Paul Liautaud
