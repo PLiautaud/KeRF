@@ -16,7 +16,7 @@ Une comparaison entre KeRF centré, RF centré et RF Breiman évalués sur 2 mod
 
 
 
-On peut également représenter 4 arbres centrés opérant sur un jeu de données de taille $n=200$ dans <img src="https://latex.codecogs.com/svg.image?\mathcal{X}=[0;1]^2$,&space;telles&space;que&space;$(\mathbf{X}_i)_i&space;\sim&space;\mathcal{U}([0;1]^2)" title="\mathcal{X}=[0;1]^2$, telles que $(\mathbf{X}_i)_i \sim \mathcal{U}([0;1]^2)" /> :
+On peut également représenter 4 arbres centrés opérant sur un jeu de données :
 
 ![Pathos_Exemple7_d2_N=200](https://user-images.githubusercontent.com/90805180/148701851-b73ff73e-f9a6-4506-87fb-c3e3bc601437.jpg)
 
